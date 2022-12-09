@@ -10,7 +10,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Notion Next.js blog</title>
+        <title>Matthew Paul</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
